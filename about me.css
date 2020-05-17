@@ -1,0 +1,59 @@
+
+span{
+color: steelblue;
+}
+
+
+#backcover{
+background: fixed url("imgs/Screenshot_20200516-204517_Gallery.jpg");
+height:500px;
+background-size: cover;
+background-repeat: no-repeat;
+background-position-y: 50px;
+} 
+
+#weight{
+color: white;
+font-weight:initial;
+font-size: 40px;
+}
+
+#good{
+color:#85af4b ;
+
+}
+
+#point{
+    background: #e2e2e2;
+    margin-top: 40px;
+}
+
+#color{
+    color: white;
+}
+
+
+#last {
+    font-weight: 800;
+    font-size: x-large;
+    color: #85af4b;
+    text-transform: uppercase;
+    padding-bottom: 40px;
+}
+#part{
+    padding-left: 50px;
+}
+
+#button{
+    margin-left: 50px;
+}
+#box {
+    text-transform: uppercase;
+
+}
+#zip{
+    color: #85af4b;
+}
+#mode{
+    color: steelblue;
+}
